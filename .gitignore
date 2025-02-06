@@ -1,0 +1,6 @@
+*/__pycache__/*
+.DS_Store
+
+pydata-london-86th-meetup/public.txt
+pydata-london-86th-meetup/secret.txt
+pydata-london-86th-meetup/database/*
